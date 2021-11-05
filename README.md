@@ -1,2 +1,2 @@
 # SparkML_CaloriesBurnt
-Prediciting Calories Burnt Using SparkML
+Predicting Calories Burnt Using SparkML
